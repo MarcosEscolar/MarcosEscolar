@@ -1,9 +1,9 @@
 # Soy Marcos. Bienvenido a mi perfil 👋
 
-**Desarrollador de Aplicaciones Multiplatforma** (DAM)  
-Apasionado por crear soluciones web escalables y bien estructuradas.
+<!-- **Desarrollador de Aplicaciones Multiplatforma** (DAM)  
+//Apasionado por crear soluciones web escalables y bien estructuradas.-->
 
-![Presentacion]()
+![Presentacion](https://github.com/MarcosEscolar/MarcosEscolar/blob/main/Img/Presentacion_GitHub.png)
 ---
 
 ## 🛠️ Habilidades Técnicas
