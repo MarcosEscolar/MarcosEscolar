@@ -3,6 +3,7 @@
 **Desarrollador de Aplicaciones Multiplatforma** (DAM)  
 Apasionado por crear soluciones web escalables y bien estructuradas.
 
+![Presentacion]()
 ---
 
 ## 🛠️ Habilidades Técnicas
@@ -25,6 +26,7 @@ Apasionado por crear soluciones web escalables y bien estructuradas.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 ### Hosting & Herramientas
 
