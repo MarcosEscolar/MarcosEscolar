@@ -3,7 +3,7 @@
 <!-- **Desarrollador de Aplicaciones Multiplatforma** (DAM)  
 //Apasionado por crear soluciones web escalables y bien estructuradas.-->
 
-![Presentacion](https://github.com/MarcosEscolar/MarcosEscolar/blob/main/Img/Presentacion_GitHub.png)
+![Presentacion](https://github.com/MarcosEscolar/MarcosEscolar/blob/main/Img/Presentacion_GitHub.png?update=1)
 ---
 
 ## 🛠️ Habilidades Técnicas
